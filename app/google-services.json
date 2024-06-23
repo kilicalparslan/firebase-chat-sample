@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "796776941339",
+    "firebase_url": "https://chatornekdb-default-rtdb.firebaseio.com",
+    "project_id": "chatornekdb",
+    "storage_bucket": "chatornekdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796776941339:android:25be40bd2a679c8e9a75be",
+        "android_client_info": {
+          "package_name": "com.alparslankilic.firebasechatsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzGxwTBwHpNuNNiCDbvdQ6_1cssRykYn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
